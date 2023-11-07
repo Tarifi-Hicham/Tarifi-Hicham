@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tarifi-hicham&show_icons=true&locale=en" alt="tarifi-hicham" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tarifi-hicham&" alt="tarifi-hicham" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarifi-hicham&show_icons=true&locale=en&layout=compact" alt="tarifi-hicham" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarifi-hicham&show_icons=true&locale=en&layout=compact" alt="tarifi-hicham" /></p>
