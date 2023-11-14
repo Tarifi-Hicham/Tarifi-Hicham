@@ -1,4 +1,4 @@
-<img align="right" alt="Data" height="500" width="100%" src="https://www.ringcentral.com/us/en/blog/wp-content/uploads/2020/07/Tomorrows-solutions-for-todays-customers-1.gif" />
+<!-- <img align="right" alt="Data" height="500" width="100%" src="https://www.ringcentral.com/us/en/blog/wp-content/uploads/2020/07/Tomorrows-solutions-for-todays-customers-1.gif" />-->
 <h1 align="center">Hi 👋, I'm Tarifi Hicham</h1>
 <h3 align="center">A passionate data Engineer from Morocco</h3>
 <img align="right" alt="Data" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
