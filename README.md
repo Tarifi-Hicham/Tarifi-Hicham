@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Big-Data projects**
 
-- 🌱 I’m currently learning **Apache Spark, Hadoop, Neo4j**
+- 🌱 I’m currently learning **Elastic Stack, Neo4j**
 
-- 💬 Ask me about **Java, Python, Kafka, PySpark**
+- 💬 Ask me about **Python, Kafka, Spark, Hadoop, Azure**
 
 - 📫 How to reach me **tarifi.hicham@gmail.com**
 
