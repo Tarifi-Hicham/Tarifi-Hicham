@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, Kafka, Spark, Hadoop, Azure**
 
-- 📫 How to reach me **tarifi.hicham@gmail.com**
+<!-- - 📫 How to reach me **tarifi.hicham@gmail.com** -->
 
 - ⚡ Fun fact **“Data is the new science. Big Data holds the answers.” – By Pat Gelsinger**
 
