@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarifi-hicham&label=Profile%20views&color=0e75b6&style=flat" alt="tarifi-hicham" /> </p>
 
-- 🔭 I’m currently working on **Big-Data projects**
+- 🔭 I’m currently working on **Data projects**
 
-- 🌱 I’m currently learning **Elastic Stack, Neo4j**
+- 🌱 I’m currently learning **Elastic Stack, AI Agents, Automation**
 
-- 💬 Ask me about **Python, Kafka, Spark, Hadoop, Azure**
+- 💬 Ask me about **Talend, Power BI, Python, Kafka, Spark, Hadoop, Azure**
 
 <!-- - 📫 How to reach me **tarifi.hicham@gmail.com** -->
 
-- ⚡ Fun fact **“Data is the new science. Big Data holds the answers.” – By Pat Gelsinger**
+- ⚡ Fun fact **“Data is the nutrition of artificial intelligence. When an AI eats junk food, it's not going to perform very well.” – Matthew Emerick**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
